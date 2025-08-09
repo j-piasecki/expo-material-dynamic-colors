@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-material-dynamic-colors": ["../src/index"],
+      "expo-material-dynamic-colors/*": ["../src/*"]
+    }
+  }
+}
