@@ -1,6 +1,6 @@
 {
   "name": "expo-material-dynamic-colors",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Module exposing the dynamic color palette from Material 3",
   "main": "build/index.js",
   "types": "build/index.d.ts",
